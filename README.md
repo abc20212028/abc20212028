@@ -1,16 +1,14 @@
-### Hi there 👋
+## 一只科班软工小扒菜，名曰xiaoxin
 
-<!--
-**abc20212028/abc20212028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐧 软件工程菜鸡大学生
+- 👨‍💻 经历：<a href="https://space.bilibili.com/505159848?spm_id_from=333.1007.0.0" target="_blank">菜鸡科班大学生 UP</a>
+- 🏡 作品：<a href="https://github.com/xiaoxin179" target="_blank">xiaoxin1399</a> 
+- 🌱 干货：<a href="" target="_blank">公众号『 xiaoxin1399 』</a>
+- 😺 视频：<a href="https://space.bilibili.com/505159848?spm_id_from=333.1007.0.0" target="_blank">B站 xiaoxin1399
+- 💬 微信：xiaoxin1399（请备注事由）
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 年度报告 ✨
+<div display="float">
+  <img align="" height="120px"  src="https://github-readme-stats.vercel.app/api?username=xiaoxin179&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align=""  height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxin179&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+</div>
